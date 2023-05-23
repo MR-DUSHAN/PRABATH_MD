@@ -1,5 +1,5 @@
   <p align="center">  
-  <a href="[https://i.ibb.co/7YGn5qS/20230305-135924.jpg](https://i.ibb.co/1fzX8Y1/20230523-165422.jpg) ">
+  <a href="[https://i.ibb.co/1fzX8Y1/20230523-165422.jpg] ">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
     <h1 align="center"> PRABATH-MD </h1>
   </a>
