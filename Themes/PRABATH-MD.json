@@ -10,8 +10,8 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": "*PRABATH-MD*",
-          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "botName": "*MR.FLASH MODZ*",
+          "body": "DUSHAN KAVISHKA",
           "greet2" : ".",
           "pic1": "https://i.ibb.co/1fzX8Y1/20230523-165422.jpg",
           "pic2": "https://i.ibb.co/1fzX8Y1/20230523-165422.jpg",
@@ -37,9 +37,9 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by *~ PRABATH-MD-WHATSAPP-BOT~*",
           "mention": " Please mention any user Sir",
-          "title": "*PRABATH-MD* ",
+          "title": "*MR.FLASH MODZ* ",
           "footer": "ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸",
-          "by": "*PRABATH-MD-WHATSAPP-BOT* ",
+          "by": "*MR.FLASH MODZ* ",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "*Successful* ✅",
           "dot": "Did you mean *help?*",
